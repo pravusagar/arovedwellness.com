@@ -20,9 +20,7 @@ Welcome to Aroved Wellness, a website I designed and developed. This platform is
 
 ## Website Preview 🌐
 
-Embedding the live website:
-
-<iframe src="https://arovedwellness.com" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+Visit the live website: [Aroved Wellness](https://arovedwellness.com)
 
 ## Features ✨
 
