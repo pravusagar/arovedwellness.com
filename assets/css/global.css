@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@font-face {
+  font-family: 'MonotypeCorsiva';
+  src: url('../webfonts/Monotype\ Corsiva.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TAN-PEARL';
+  src: url('../webfonts/TAN-PEARL.woff2') format('woff2'),
+       url('../webfonts/TAN-PEARL.woff') format('woff');
+}
+
+
+:root {
+  --main-color:#004c44;
+  /* --active-color:#dfad4e; */
+  --active-color:#ddab61;
+  --surface-color:#f2deb8;
+ 
+}
+
+::selection {
+  background-color:#dfad4e;
+  color: var(--main-color);
+}
+::-moz-selection {
+    background-color:#dfad4e;
+    color: var(--main-color);
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  
+}
+
+::-webkit-scrollbar-track {
+  background:var(--main-color); 
+
+}
+ 
+
+::-webkit-scrollbar-thumb {
+  background:var(--active-color); 
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background:#f2deb8; 
+}
+
+a{
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li{
+  padding: 0;
+}
