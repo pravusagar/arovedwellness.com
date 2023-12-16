@@ -18,9 +18,11 @@ Welcome to Aroved Wellness, a website I designed and developed. This platform is
 - **Fancybox**: A tool for creating elegant lightbox pop-ups for images and other media.
 - **jQuery**: Simplifies DOM manipulation and event handling.
 
-## Website URL 🌐
+## Website Preview 🌐
 
-Visit the live website: [Aroved Wellness](https://arovedwellness.com)
+Embedding the live website:
+
+<iframe src="https://arovedwellness.com" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Features ✨
 
@@ -30,7 +32,6 @@ Visit the live website: [Aroved Wellness](https://arovedwellness.com)
 - **User-Friendly Interface**: Utilized Font Awesome icons for intuitive navigation.
 - **Image Gallery with Fancybox**: Providing a visually appealing way to showcase images.
 
-  
 ## Note 📝
 
 - This repository only includes the frontend code for demonstration purposes. The backend code is not included for security reasons.
