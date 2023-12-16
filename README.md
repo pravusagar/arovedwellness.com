@@ -30,6 +30,8 @@ Visit the live website: [Aroved Wellness](https://arovedwellness.com)
 - **User-Friendly Interface**: Utilized Font Awesome icons for intuitive navigation.
 - **Image Gallery with Fancybox**: Providing a visually appealing way to showcase images.
 
-Feel free to explore the website and discover the wellness resources it offers!
+  
+## Note 📝
 
-**Note:** This README is intended for demonstration purposes and may not accurately reflect the details of the actual website. For the latest information and updates, please visit the live website: [Aroved Wellness](https://arovedwellness.com).
+- This repository only includes the frontend code for demonstration purposes. The backend code is not included for security reasons.
+- This README is intended for demonstration purposes and may not accurately reflect the details of the actual website. For the latest information and updates, please visit the live website: [Aroved Wellness](https://arovedwellness.com).
